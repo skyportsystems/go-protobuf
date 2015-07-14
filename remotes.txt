@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/go-protobuf (fetch)
+origin	git@github.com:skyportsystems/go-protobuf (push)
+upstream	https://github.com/golang/protobuf (fetch)
+upstream	https://github.com/golang/protobuf (push)
